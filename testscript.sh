@@ -4,4 +4,5 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
 echo "This was added again"
-echo " Finally got jenkins and github to play nice...hopefully...again"
+echo " Finally got jenkins and github to play nice"
+echo " IT worked but triggered 3 times."
